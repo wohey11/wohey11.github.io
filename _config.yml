@@ -1,3 +1,4 @@
 theme: jekyll-theme-minimal
 title: Herzlich Willkommen
 description: Ein erster Versuch mit github Webpages...
+remote_theme: poole/poole
