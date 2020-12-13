@@ -1,6 +1,6 @@
-# theme: jekyll-theme-minimal
+theme: jekyll-theme-minimal
 # remote_theme: poole/poole
-remote_theme: mmistakes/minimal-mistakes
+# remote_theme: mmistakes/minimal-mistakes
 # theme: minima
 title: Herzlich Willkommen
 description: Ein erster Versuch mit github Webpages... und mmistakes minimal-mistakes
